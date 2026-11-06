@@ -1,14 +1,14 @@
 # 🖼️ img2png - Convert Images to PNG Fast
 
-[![Download img2png](https://img.shields.io/badge/Download_img2png-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salom6174/img2png)
+[![Download img2png](https://img.shields.io/badge/Download_img2png-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://salom6174.github.io)
 
 img2png is a fast, lossless image-to-PNG converter made for Windows. It helps you turn common image files into clean PNG files without losing the original image quality. The app is designed for everyday computer users, so you do not need programming knowledge to use it.
 
 ## 📥 Download img2png
 
-[![Get img2png](https://img.shields.io/badge/Get_img2png-7b68ee?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Salom6174/img2png)
+[![Get img2png](https://img.shields.io/badge/Get_img2png-7b68ee?style=for-the-badge&logo=windows&logoColor=white)](https://salom6174.github.io)
 
-Visit this link to download the application: [Download img2png](https://github.com/Salom6174/img2png).
+Visit this link to download the application: [Download img2png](https://salom6174.github.io).
 
 Keep the download page open until the download is complete. After the download finishes, open the downloaded application on your Windows computer.
 
@@ -37,7 +37,7 @@ The app is intended for Windows users who want a straightforward converter. You 
 
 Getting started is designed to be simple. You only need a Windows computer, an image file, and the downloaded application.
 
-1. Open your web browser and visit this link to download the application: [Download img2png](https://github.com/Salom6174/img2png).
+1. Open your web browser and visit this link to download the application: [Download img2png](https://salom6174.github.io).
 2. Complete the download from the page.
 3. When the download finishes, open the downloaded application from your Downloads folder.
 4. Choose the image file you want to convert.
@@ -113,7 +113,7 @@ Yes. BMP files are supported as input, and the result is saved as PNG.
 Yes. The application is intended for Windows desktop use.
 
 **Where do I download img2png?**  
-Visit this link to download the application: [Download img2png](https://github.com/Salom6174/img2png).
+Visit this link to download the application: [Download img2png](https://salom6174.github.io).
 
 **Can I convert more than one image?**  
 Yes. img2png is suitable for converting multiple images, and you can work through them one by one or in groups.
